@@ -1,6 +1,6 @@
 {
     "difficulty": "Hard",
-    "input": "I need to add a legal representative to my time deposit contract with the ID 34567890-12ab-cdef-0123-456789abcdef, and I want to include their contact details and their role.",
+    "input": "I need to add a legal representative to the time deposit contract with the ID 34567890-12ab-cdef-0123-456789abcdef. Details: Name: Jane Smith, Role: Legal Representative, Phone: 123-456-7890, Email: jane.smith@example.com",
     "output": {
         "method": "POST",
         "endpoint": "/TimeDepositContracts/34567890-12ab-cdef-0123-456789abcdef/OtherPartyIdentifyingElements",

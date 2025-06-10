@@ -1,6 +1,6 @@
 {
     "difficulty": "Easy",
-    "input": "I would like to ask for an extension on my loan contract that has the ID 71. Please take care of this request.",
+    "input": "I would like to ask for an extension on loan contract that has the ID 71. Please take care of this request.",
     "output": {
         "method": "POST",
         "endpoint": "/$batch",
@@ -10,8 +10,7 @@
                     "method": "POST",
                     "url": "/LoanContractProlongationRequest",
                     "body": {
-                        "ID": "71",
-                        "LoanContract": "Loan12345"
+                        "ID": "71"
                     }
                 }
             ]

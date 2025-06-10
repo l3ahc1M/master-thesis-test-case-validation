@@ -1,6 +1,6 @@
 {
     "difficulty": "Extra Hard",
-    "input": "I'm looking to request a loan payment skip for my loan contract with the ID 01234567-89ab-cdef-0123-456789abcdef. I'd like to skip my payments for the next 6 months, change my new installment amount to 350, and set the final payment date to June 30, 2025, because I'm facing a significant financial burden.",
+    "input": "I'm looking to request a loan payment skip for loan contract with the ID 01234567-89ab-cdef-0123-456789abcdef. I'd like to skip the payments for the next 6 months, change the new installment amount to 350, and set the final payment date to June 30, 2025, because the customer is facing a significant financial burden.",
     "output": {
         "method": "POST",
         "endpoint": "/LoanPaymentSkipRequests",

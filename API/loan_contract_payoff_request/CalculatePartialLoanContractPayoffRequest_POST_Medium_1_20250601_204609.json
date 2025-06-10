@@ -1,6 +1,6 @@
 {
     "difficulty": "Medium",
-    "input": "Can you help me figure out the details for a partial payoff request for my loan with the ID of 71? I need to know when the payment is expected to be made and the total amount I need to pay.",
+    "input": "Can you help me figure out the details for a partial payoff request for the loan with the ID of 71? I need to know when the payment is expected to be made and the total amount the customer needs to pay.",
     "output": {
         "method": "POST",
         "endpoint": "/CalculatePartialLoanContractPayoffRequest",

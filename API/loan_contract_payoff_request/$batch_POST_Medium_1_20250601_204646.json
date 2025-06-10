@@ -1,6 +1,6 @@
 {
     "difficulty": "Medium",
-    "input": "Can you help me figure out the total payoff amount for my loan contract with the ID 71? I also need the details for the payment transaction instructions.",
+    "input": "Can you help me figure out the total payoff amount for the loan contract with the ID 71? I also need the details for the payment transaction instructions.",
     "output": {
         "method": "POST",
         "endpoint": "/$batch",

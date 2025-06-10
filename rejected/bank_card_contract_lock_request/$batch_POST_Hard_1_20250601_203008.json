@@ -1,6 +1,6 @@
 {
     "difficulty": "Hard",
-    "input": "I need to lock my bank card contract because I'm moving to another country for good. My ID is 105 and my account is currently active.",
+    "input": "I need to lock a bank card contract because I'm moving to another country for good. The ID is 105 and the account is currently active.",
     "output": {
         "method": "POST",
         "endpoint": "/$batch",

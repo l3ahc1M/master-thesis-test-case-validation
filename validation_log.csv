@@ -132,3 +132,97 @@ timestamp,category,filename,status,reason
 2025-06-09T14:21:25.938389,bank_customer_lock_request,BankCustomerLockRequests_{ID}_PATCH_Medium_1_20250601_203105.json,confirmed,
 2025-06-09T14:22:21.872747,current_account_contract,$batch_POST_Easy_1_20250601_203930.json,confirmed,
 2025-06-09T14:23:38.342289,current_account_contract,$batch_POST_Extra Hard_1_20250601_203930.json,rejected,too less data
+2025-06-10T16:56:38.852059,current_account_contract,$batch_POST_Hard_1_20250601_203930.json,rejected,does not make sene
+2025-06-10T20:09:26.712327,current_account_contract,$batch_POST_Medium_1_20250601_203930.json,confirmed,
+2025-06-10T20:09:40.893388,current_account_contract,CurrentAccountContracts_POST_Easy_1_20250601_203144.json,confirmed,
+2025-06-10T20:10:18.624230,current_account_contract,CurrentAccountContracts_POST_Extra Hard_1_20250601_203144.json,confirmed,
+2025-06-10T20:10:29.324131,current_account_contract,CurrentAccountContracts_POST_Hard_1_20250601_203144.json,confirmed,
+2025-06-10T20:11:05.539850,current_account_contract,CurrentAccountContracts_POST_Medium_1_20250601_203144.json,confirmed,
+2025-06-10T20:14:02.745586,current_account_contract,CurrentAccountContracts_{UUID}_BankAccountEntryBalanceBasedRestrictions_{Code-1}_PATCH_Easy_1_20250601_203412.json,confirmed,
+2025-06-10T20:14:48.151808,current_account_contract,CurrentAccountContracts_{UUID}_BankAccountEntryBalanceBasedRestrictions_{Code-1}_PATCH_Extra Hard_1_20250601_203412.json,confirmed,
+2025-06-10T20:14:58.589088,current_account_contract,CurrentAccountContracts_{UUID}_BankAccountEntryBalanceBasedRestrictions_{Code-1}_PATCH_Hard_1_20250601_203412.json,confirmed,
+2025-06-10T20:15:35.410689,current_account_contract,CurrentAccountContracts_{UUID}_BankAccountEntryBalanceBasedRestrictions_{Code-1}_PATCH_Medium_1_20250601_203412.json,confirmed,
+2025-06-10T20:15:43.792678,current_account_contract,CurrentAccountContracts_{UUID}_BankAccountEntryStatisticBasedRestrictions_POST_Easy_1_20250601_203451.json,confirmed,
+2025-06-10T20:16:07.468728,current_account_contract,CurrentAccountContracts_{UUID}_BankAccountEntryStatisticBasedRestrictions_POST_Extra Hard_1_20250601_203451.json,confirmed,
+2025-06-10T20:16:28.382033,current_account_contract,CurrentAccountContracts_{UUID}_BankAccountEntryStatisticBasedRestrictions_POST_Hard_1_20250601_203451.json,confirmed,
+2025-06-10T20:20:28.891270,current_account_contract,CurrentAccountContracts_{UUID}_BankAccountEntryStatisticBasedRestrictions_POST_Medium_1_20250601_203451.json,confirmed,
+2025-06-10T20:20:56.611880,current_account_contract,CurrentAccountContracts_{UUID}_BankAccountEntryStatisticBasedRestrictions_{Code-1}_DELETE_Easy_1_20250601_203531.json,confirmed,
+2025-06-10T20:21:19.215593,current_account_contract,CurrentAccountContracts_{UUID}_BankAccountEntryStatisticBasedRestrictions_{Code-1}_DELETE_Extra Hard_1_20250601_203531.json,confirmed,
+2025-06-10T20:21:44.053236,current_account_contract,CurrentAccountContracts_{UUID}_BankAccountEntryStatisticBasedRestrictions_{Code-1}_DELETE_Hard_1_20250601_203531.json,confirmed,
+2025-06-10T20:21:59.588993,current_account_contract,CurrentAccountContracts_{UUID}_BankAccountEntryStatisticBasedRestrictions_{Code-1}_DELETE_Medium_1_20250601_203531.json,confirmed,
+2025-06-10T20:22:10.684520,current_account_contract,CurrentAccountContracts_{UUID}_BankAccountStatementArrangements_POST_Easy_1_20250601_203239.json,confirmed,
+2025-06-10T20:22:43.386415,current_account_contract,CurrentAccountContracts_{UUID}_BankAccountStatementArrangements_POST_Extra Hard_1_20250601_203239.json,confirmed,
+2025-06-10T20:23:20.834753,current_account_contract,CurrentAccountContracts_{UUID}_BankAccountStatementArrangements_POST_Hard_1_20250601_203239.json,confirmed,
+2025-06-10T20:23:40.970070,current_account_contract,CurrentAccountContracts_{UUID}_BankAccountStatementArrangements_POST_Medium_1_20250601_203239.json,confirmed,
+2025-06-10T20:23:54.519732,current_account_contract,CurrentAccountContracts_{UUID}_BankAccountStatementArrangements_{ID-1}_DELETE_Easy_1_20250601_203332.json,confirmed,
+2025-06-10T20:24:12.659497,current_account_contract,CurrentAccountContracts_{UUID}_BankAccountStatementArrangements_{ID-1}_DELETE_Extra Hard_1_20250601_203332.json,confirmed,
+2025-06-10T20:24:37.998835,current_account_contract,CurrentAccountContracts_{UUID}_BankAccountStatementArrangements_{ID-1}_DELETE_Hard_1_20250601_203332.json,confirmed,
+2025-06-10T20:24:48.767654,current_account_contract,CurrentAccountContracts_{UUID}_BankAccountStatementArrangements_{ID-1}_DELETE_Medium_1_20250601_203332.json,confirmed,
+2025-06-10T20:25:37.992436,current_account_contract,CurrentAccountContracts_{UUID}_IndividualInterestConditions_POST_Easy_1_20250601_203549.json,confirmed,
+2025-06-10T20:26:21.412008,current_account_contract,CurrentAccountContracts_{UUID}_IndividualInterestConditions_POST_Extra Hard_1_20250601_203549.json,confirmed,
+2025-06-10T20:26:59.340825,current_account_contract,CurrentAccountContracts_{UUID}_IndividualInterestConditions_POST_Hard_1_20250601_203549.json,confirmed,
+2025-06-10T20:27:11.405584,current_account_contract,CurrentAccountContracts_{UUID}_IndividualInterestConditions_POST_Medium_1_20250601_203549.json,confirmed,
+2025-06-10T20:27:28.599471,current_account_contract,CurrentAccountContracts_{UUID}_PATCH_Easy_1_20250601_203205.json,confirmed,
+2025-06-10T20:27:50.791206,current_account_contract,CurrentAccountContracts_{UUID}_PATCH_Extra Hard_1_20250601_203205.json,confirmed,
+2025-06-10T20:28:33.997803,current_account_contract,CurrentAccountContracts_{UUID}_PATCH_Hard_1_20250601_203205.json,confirmed,
+2025-06-10T20:28:48.622690,current_account_contract,CurrentAccountContracts_{UUID}_PATCH_Medium_1_20250601_203205.json,confirmed,
+2025-06-10T20:29:05.576922,current_account_contract,CurrentAccountContracts_{UUID}_PaymentTransactionInstructions_POST_Easy_1_20250601_203751.json,confirmed,
+2025-06-10T20:30:40.168874,current_account_contract,CurrentAccountContracts_{UUID}_PaymentTransactionInstructions_POST_Extra Hard_1_20250601_203751.json,confirmed,
+2025-06-10T20:30:46.323664,current_account_contract,CurrentAccountContracts_{UUID}_PaymentTransactionInstructions_POST_Hard_1_20250601_203751.json,confirmed,
+2025-06-10T20:32:07.650720,current_account_contract,CurrentAccountContracts_{UUID}_PaymentTransactionInstructions_POST_Medium_1_20250601_203751.json,confirmed,
+2025-06-10T20:33:01.665801,current_account_contract,CurrentAccountContracts_{UUID}_PaymentTransactionInstructions_{UUID-1}_PATCH_Easy_1_20250601_203812.json,confirmed,
+2025-06-10T20:33:43.453293,current_account_contract,CurrentAccountContracts_{UUID}_PaymentTransactionInstructions_{UUID-1}_PATCH_Extra Hard_1_20250601_203812.json,confirmed,
+2025-06-10T20:34:18.324967,current_account_contract,CurrentAccountContracts_{UUID}_PaymentTransactionInstructions_{UUID-1}_PATCH_Hard_1_20250601_203812.json,confirmed,
+2025-06-10T20:34:32.691708,current_account_contract,CurrentAccountContracts_{UUID}_PaymentTransactionInstructions_{UUID-1}_PATCH_Medium_1_20250601_203812.json,confirmed,
+2025-06-10T20:34:52.759145,current_account_contract,CurrentAccountContracts_{UUID}_SAP__self.ActivateCurrentAccountContract_POST_Easy_1_20250601_203224.json,confirmed,
+2025-06-10T20:35:10.974611,current_account_contract,CurrentAccountContracts_{UUID}_SAP__self.ActivateCurrentAccountContract_POST_Extra Hard_1_20250601_203224.json,rejected,duplicate
+2025-06-10T20:35:22.096335,current_account_contract,CurrentAccountContracts_{UUID}_SAP__self.ActivateCurrentAccountContract_POST_Hard_1_20250601_203224.json,rejected,duplicate
+2025-06-10T20:35:30.092462,current_account_contract,CurrentAccountContracts_{UUID}_SAP__self.ActivateCurrentAccountContract_POST_Medium_1_20250601_203224.json,rejected,duplicate
+2025-06-10T20:35:36.276020,current_account_contract,CurrentAccountContracts_{UUID}_SeasonalLimits_POST_Easy_1_20250601_203847.json,confirmed,
+2025-06-10T20:36:09.813313,current_account_contract,CurrentAccountContracts_{UUID}_SeasonalLimits_POST_Extra Hard_1_20250601_203847.json,rejected,"winter" is not defined
+2025-06-10T20:36:20.142133,current_account_contract,CurrentAccountContracts_{UUID}_SeasonalLimits_POST_Hard_1_20250601_203847.json,rejected,"holiday" is not defined
+2025-06-10T20:36:33.490167,current_account_contract,CurrentAccountContracts_{UUID}_SeasonalLimits_POST_Medium_1_20250601_203847.json,rejected,"summer" is not defined
+2025-06-10T20:36:42.929634,current_account_contract,CurrentAccountContracts_{UUID}_SeasonalLimits_{ID-1}_DELETE_Easy_1_20250601_203907.json,confirmed,
+2025-06-10T20:37:04.222046,current_account_contract,CurrentAccountContracts_{UUID}_SeasonalLimits_{ID-1}_DELETE_Extra Hard_1_20250601_203907.json,confirmed,
+2025-06-10T20:37:30.955207,current_account_contract,CurrentAccountContracts_{UUID}_SeasonalLimits_{ID-1}_DELETE_Hard_1_20250601_203907.json,confirmed,
+2025-06-10T20:42:33.995075,current_account_contract,CurrentAccountContracts_{UUID}_SeasonalLimits_{ID-1}_DELETE_Medium_1_20250601_203907.json,confirmed,
+2025-06-10T22:14:07.242901,direct_debit_mandate,$batch_POST_Easy_1_20250601_204011.json,confirmed,
+2025-06-10T22:14:45.586843,direct_debit_mandate,$batch_POST_Extra Hard_1_20250601_204011.json,confirmed,
+2025-06-10T22:15:52.164698,direct_debit_mandate,$batch_POST_Hard_1_20250601_204011.json,confirmed,
+2025-06-10T22:16:06.017542,direct_debit_mandate,$batch_POST_Medium_1_20250601_204011.json,rejected,too less information
+2025-06-10T22:16:14.635135,direct_debit_mandate,DirectDebitMandates_POST_Easy_1_20250601_203952.json,rejected,too less information
+2025-06-10T22:16:24.034782,direct_debit_mandate,DirectDebitMandates_POST_Extra Hard_1_20250601_203952.json,confirmed,
+2025-06-10T22:16:34.930715,direct_debit_mandate,DirectDebitMandates_POST_Hard_1_20250601_203952.json,rejected,too less information
+2025-06-10T22:16:43.716769,direct_debit_mandate,DirectDebitMandates_POST_Medium_1_20250601_203952.json,rejected,too less information
+2025-06-10T22:17:29.111684,loan_contract,$batch_POST_Easy_1_20250601_204333.json,confirmed,
+2025-06-10T22:18:21.794204,loan_contract,$batch_POST_Extra Hard_1_20250601_204333.json,rejected,too less information
+2025-06-10T22:19:06.097824,loan_contract,$batch_POST_Hard_1_20250601_204333.json,rejected,too less information
+2025-06-10T22:19:14.877633,loan_contract,$batch_POST_Medium_1_20250601_204333.json,rejected,too less information
+2025-06-10T22:19:28.579989,loan_contract,LoanContracts_POST_Easy_1_20250601_204035.json,rejected,too less information
+2025-06-10T22:19:36.370311,loan_contract,LoanContracts_POST_Extra Hard_1_20250601_204035.json,rejected,too less information
+2025-06-10T22:19:42.569979,loan_contract,LoanContracts_POST_Hard_1_20250601_204035.json,rejected,too less information
+2025-06-10T22:19:51.236505,loan_contract,LoanContracts_POST_Medium_1_20250601_204035.json,rejected,too less information
+2025-06-10T22:19:56.897409,loan_contract,LoanContracts_{UUID}_CommittedCapitalAdjustments_{ID-1}_DELETE_Easy_1_20250601_204150.json,confirmed,
+2025-06-10T22:20:01.682076,loan_contract,LoanContracts_{UUID}_CommittedCapitalAdjustments_{ID-1}_DELETE_Extra Hard_1_20250601_204150.json,confirmed,
+2025-06-10T22:20:03.419561,loan_contract,LoanContracts_{UUID}_CommittedCapitalAdjustments_{ID-1}_DELETE_Medium_1_20250601_204150.json,confirmed,
+2025-06-10T22:20:08.963143,loan_contract,LoanContracts_{UUID}_IncomingPaymentAgreements_{ID-1}_PATCH_Easy_1_20250601_204206.json,confirmed,
+2025-06-10T22:20:43.695534,loan_contract,LoanContracts_{UUID}_IncomingPaymentAgreements_{ID-1}_PATCH_Extra Hard_1_20250601_204206.json,confirmed,
+2025-06-10T22:21:54.000190,loan_contract,LoanContracts_{UUID}_IncomingPaymentAgreements_{ID-1}_PATCH_Hard_1_20250601_204206.json,confirmed,
+2025-06-10T22:22:05.278426,loan_contract,LoanContracts_{UUID}_IncomingPaymentAgreements_{ID-1}_PATCH_Medium_1_20250601_204206.json,confirmed,
+2025-06-10T22:22:11.229880,loan_contract,LoanContracts_{UUID}_PATCH_Easy_1_20250601_204055.json,confirmed,
+2025-06-10T22:22:21.595364,loan_contract,LoanContracts_{UUID}_PATCH_Extra Hard_1_20250601_204055.json,rejected,too less data
+2025-06-10T22:22:42.096952,loan_contract,LoanContracts_{UUID}_PATCH_Hard_1_20250601_204055.json,confirmed,
+2025-06-10T22:23:12.104573,loan_contract,LoanContracts_{UUID}_PATCH_Medium_1_20250601_204055.json,confirmed,
+2025-06-10T22:23:15.544231,loan_contract,LoanContracts_{UUID}_PaymentTransactionInstructions_{UUID-1}_DELETE_Easy_1_20250601_204257.json,confirmed,
+2025-06-10T22:23:17.994488,loan_contract,LoanContracts_{UUID}_PaymentTransactionInstructions_{UUID-1}_DELETE_Extra Hard_1_20250601_204257.json,confirmed,
+2025-06-10T22:23:19.144591,loan_contract,LoanContracts_{UUID}_PaymentTransactionInstructions_{UUID-1}_DELETE_Hard_1_20250601_204257.json,confirmed,
+2025-06-10T22:23:21.534751,loan_contract,LoanContracts_{UUID}_PaymentTransactionInstructions_{UUID-1}_DELETE_Medium_1_20250601_204257.json,confirmed,
+2025-06-10T22:23:28.678474,loan_contract,LoanContracts_{UUID}_TermAgreements_{ID-1}_PATCH_Easy_1_20250601_204314.json,confirmed,
+2025-06-10T22:24:12.360512,loan_contract,LoanContracts_{UUID}_TermAgreements_{ID-1}_PATCH_Extra Hard_1_20250601_204314.json,confirmed,
+2025-06-10T22:24:13.285881,loan_contract,LoanContracts_{UUID}_TermAgreements_{ID-1}_PATCH_Hard_1_20250601_204314.json,confirmed,
+2025-06-10T22:24:28.752085,loan_contract,LoanContracts_{UUID}_TermAgreements_{ID-1}_PATCH_Medium_1_20250601_204314.json,confirmed,
+2025-06-10T22:25:07.735047,loan_contract_borrower_party_change_request,$batch_POST_Easy_1_20250601_204502.json,rejected,too less data
+2025-06-10T22:25:18.876187,loan_contract_borrower_party_change_request,$batch_POST_Extra Hard_1_20250601_204502.json,rejected,too less data
+2025-06-10T22:25:24.023447,loan_contract_borrower_party_change_request,$batch_POST_Hard_1_20250601_204502.json,rejected,too less data
+2025-06-10T22:25:35.192678,loan_contract_borrower_party_change_request,$batch_POST_Medium_1_20250601_204502.json,rejected,too less data
+2025-06-10T22:25:42.808849,loan_contract_borrower_party_change_request,LoanContractBorrowerPartyChangeRequests_{UUID}_SAP__self.ProposedByLCUUID_POST_Easy_1_20250601_204418.json,rejected,too less data

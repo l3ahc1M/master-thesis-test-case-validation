@@ -1,6 +1,6 @@
 {
     "difficulty": "Easy",
-    "input": "Can you help me figure out the total payoff amount for my loan with the ID 71? I need to know the gross amount and the payment details.",
+    "input": "Can you help me figure out the total payoff amount for the loan with the ID 71? I need to know the gross amount and the payment details.",
     "output": {
         "method": "POST",
         "endpoint": "/CalculateFullLoanContractPayoffRequest",

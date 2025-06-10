@@ -1,6 +1,6 @@
 {
     "difficulty": "Easy",
-    "input": "I want to create a request to partially pay off my loan with the ID of 71. The UUID for my loan contract is 01234567-89ab-cdef-0123-456789abcdef.",
+    "input": "I want to create a request to partially pay off the loan with the ID of 71. The UUID for the loan contract is 01234567-89ab-cdef-0123-456789abcdef.",
     "output": {
         "method": "POST",
         "endpoint": "/$batch",

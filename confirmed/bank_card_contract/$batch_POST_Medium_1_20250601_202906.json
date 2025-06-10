@@ -1,6 +1,6 @@
 {
     "difficulty": "Medium",
-    "input": "Could you please arrange a bank card contract for my savings account that is valid from October 1, 2023, to October 1, 2025?",
+    "input": "Could you please arrange a bank card contract for the savings account that is valid from October 1, 2023, to October 1, 2025?",
     "output": {
         "method": "POST",
         "endpoint": "/BankCardContracts",

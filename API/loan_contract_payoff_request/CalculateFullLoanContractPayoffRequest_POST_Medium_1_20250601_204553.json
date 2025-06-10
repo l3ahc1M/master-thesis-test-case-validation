@@ -1,6 +1,6 @@
 {
     "difficulty": "Medium",
-    "input": "I want to find out the total amount I need to pay off my loan with the ID of 71. Can you also let me know when the payment is due and any instructions for making the transaction?",
+    "input": "I want to find out the total amount I need to pay off the loan with the ID of 71. Can you also let me know when the payment is due and any instructions for making the transaction?",
     "output": {
         "method": "POST",
         "endpoint": "/CalculateFullLoanContractPayoffRequest",

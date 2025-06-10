@@ -1,6 +1,6 @@
 {
     "difficulty": "Easy",
-    "input": "I want to update the account holder for my savings account. The new account holder will be Alice Cooper, and the previous account holder was Bob Cooper. Please take care of this request.",
+    "input": "I want to update the account holder for a savings account. The new account holder will be Alice Cooper, and the previous account holder was Bob Cooper. Please take care of this request.",
     "output": {
         "method": "POST",
         "endpoint": "/$batch",

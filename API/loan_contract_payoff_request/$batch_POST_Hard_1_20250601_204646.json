@@ -1,6 +1,6 @@
 {
     "difficulty": "Hard",
-    "input": "I need to create a request to partially pay off my loan contract with the ID 71. Please make sure to include the activation charge amount and any unpaid billing entries.",
+    "input": "I need to create a request to partially pay off loan contract with the ID 71. Please make sure to include the activation charge amount and any unpaid billing entries.",
     "output": {
         "method": "POST",
         "endpoint": "/$batch",

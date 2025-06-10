@@ -1,6 +1,6 @@
 {
     "difficulty": "Extra Hard",
-    "input": "I need a detailed proposal for my loan contract payoff request with the ID of 71. Please make sure to include the calculation of the total amount due, instructions for the payment transaction, and any waivers for activation charges that I've requested.",
+    "input": "I need a detailed proposal for thes loan contract payoff request with the ID of 71. Please make sure to include the calculation of the total amount due, instructions for the payment transaction, and any waivers for activation charges that I've requested.",
     "output": {
         "method": "POST",
         "endpoint": "/ProposeLoanContractPayoffRequest",

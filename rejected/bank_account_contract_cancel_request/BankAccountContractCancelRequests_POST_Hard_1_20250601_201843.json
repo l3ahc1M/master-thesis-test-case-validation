@@ -1,6 +1,6 @@
 {
     "difficulty": "Hard",
-    "input": "I need to cancel my current account contract, but I also want to take back the cancellation request I made last week. My account ID is 01234567-89ab-cdef-0123-456789abcdef.",
+    "input": "I need to cancel the current account contract, but I also want to take back the cancellation request the customer made last week. The account ID is 01234567-89ab-cdef-0123-456789abcdef.",
     "output": {
         "method": "POST",
         "endpoint": "/BankAccountContractCancelRequests",

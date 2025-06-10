@@ -1,6 +1,6 @@
 {
   "difficulty": "Medium",
-  "input": "Could you set up two prenote entries for my bank account with the ID 01234567-89ab-cdef-0123-456789abcdef? One should be a debit entry with the reference PRENOTE-REFERENCE-2001 and the other should be a credit entry with the reference PRENOTE-REFERENCE-2002. Both entries should be valid in 2024",
+  "input": "Could you set up two prenote entries for the bank account with the ID 01234567-89ab-cdef-0123-456789abcdef? One should be a debit entry with the reference PRENOTE-REFERENCE-2001 and the other should be a credit entry with the reference PRENOTE-REFERENCE-2002. Both entries should be valid in 2024",
   "output": {
     "method": "POST",
     "endpoint": "/$batch",

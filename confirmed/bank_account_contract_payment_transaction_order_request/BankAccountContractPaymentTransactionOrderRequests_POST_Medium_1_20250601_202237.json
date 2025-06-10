@@ -1,6 +1,6 @@
 {
     "difficulty": "Medium",
-    "input": "Please start a payment transaction order request for my account with the ID 0001-123456. The payment reference ID is Xample-ReferenceID, and I’d like to have it executed on May 1, 2024.",
+    "input": "Please start a payment transaction order request for the account with the ID 0001-123456. The payment reference ID is Xample-ReferenceID, and I’d like to have it executed on May 1, 2024.",
     "output": {
         "method": "POST",
         "endpoint": "/BankAccountContractPaymentTransactionOrderRequests",

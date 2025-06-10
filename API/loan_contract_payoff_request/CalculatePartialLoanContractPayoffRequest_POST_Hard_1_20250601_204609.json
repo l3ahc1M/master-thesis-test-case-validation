@@ -1,6 +1,6 @@
 {
     "difficulty": "Hard",
-    "input": "I need to put together a request to partially pay off my loan, which has the ID of 71. Please make sure to include the activation charge amount and any billing entries that haven't been paid yet.",
+    "input": "I need to put together a request to partially pay off the loan, which has the ID of 71. Please make sure to include the activation charge amount and any billing entries that haven't been paid yet.",
     "output": {
         "method": "POST",
         "endpoint": "/CalculatePartialLoanContractPayoffRequest",

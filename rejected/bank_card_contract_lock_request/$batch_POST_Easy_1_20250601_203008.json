@@ -1,6 +1,6 @@
 {
     "difficulty": "Easy",
-    "input": "I want to lock my bank card contract right away. The user with the id 105 is currently active.",
+    "input": "I want to lock a bank card contract right away. The user with the id 105 is currently active.",
     "output": {
         "method": "POST",
         "endpoint": "/$batch",

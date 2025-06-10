@@ -1,6 +1,6 @@
 {
     "difficulty": "Hard",
-    "input": "Could you please give me a detailed proposal for my loan contract payoff request with the ID of 71? I would like to know the total amount due and if there are any unpaid billing entries.",
+    "input": "Could you please give me a detailed proposal for the loan contract payoff request with the ID of 71? I would like to know the total amount due and if there are any unpaid billing entries.",
     "output": {
         "method": "POST",
         "endpoint": "/ProposeLoanContractPayoffRequest",
